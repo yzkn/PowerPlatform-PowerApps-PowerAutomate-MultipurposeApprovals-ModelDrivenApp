@@ -1,0 +1,11 @@
+ya_itemtypeid,ya_name
+ea9ef601-1680-ed11-81ad-002248627aef,DateTime
+440fd9fa-1580-ed11-81ad-002248627aef,Time
+430fd9fa-1580-ed11-81ad-002248627aef,Date
+3df8a631-1480-ed11-81ad-002248627aef,ColorCode
+f591130b-1480-ed11-81ad-002248627aef,Boolean
+ee91130b-1480-ed11-81ad-002248627aef,PhoneNumber
+0b31db01-1480-ed11-81ad-002248627aef,MailAddress
+7cc10dec-1380-ed11-81ad-002248627aef,Decimal
+8eef4dd4-1380-ed11-81ad-002248627aef,Int
+8def4dd4-1380-ed11-81ad-002248627aef,String
