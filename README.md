@@ -4,4 +4,4 @@ Power Apps モデル駆動型アプリと Power Automate 、ビジネスルー�
 
 ---
 
-Copyright (c) 2023 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+Copyright (c) 2023 YA-androidapp(https://github.com/yzkn) All rights reserved.
